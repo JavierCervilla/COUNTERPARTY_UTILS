@@ -1,0 +1,10 @@
+{
+    "ledger_hash": true,
+    "txlist_hash": true,
+    "messages_hash": false,
+    "block_index_ledger_match": 825095,
+    "block_index_tx_match": 825114,
+    "block_index_msg_match": 0,
+    "block_index": 0,
+    "last_block": 825089
+}
